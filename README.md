@@ -7,6 +7,6 @@ Assignments for the 2023/24 KTH course <em>Statistical Methods in Applied Comput
 | Assignment | Topic              
 | -------- | ------------------------ 
 | 1        | Monte Carlo sampling for function approximation, Importance Sampling           |
-| 2        | Metropolis Hastings, Gibbs Sampling| |
+| 2        | Metropolis Hastings, Gibbs Sampling| 
 | 3        | Sequential Importance Sampling, Bootstrap Particle Filter     |
 | 4        | Particle Gibbs with Ancestral Sampling |
